@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <tittle>
+            Wonders of the world 
+        </tittle>
+    </head>
+    <body>
+        <h1>
+            Wonders of the world
+        </h1>
+        <ul>
+            <li>
+                <strong>
+                    <H2>
+                        Tajmhal
+                    </H2>
+                </strong>
+            </li>
+        </ul>
+        <ul>
+            <li>
+                <strong>
+                    <h2>
+                        Pyramids of giza
+                    </h2>
+                </strong>
+            </li>
+        </ul>
+        <ul>
+            <li>
+                <strong>
+                    <h2>
+                        Great wall of china
+                    </h2>
+                </strong>
+            </li>
+        </ul>
+        <ul>
+            <li>
+                <strong>
+                    <h2>
+                        Machu pichu
+                    </h2>
+                </strong>
+            </li>
+        </ul>
+        <ul>
+            <li>
+                <strong>
+                    <h2>
+                        Sydney opera house
+                    </h2>
+                </strong>
+            </li>
+        </ul>
+        <ul>
+            <li>
+                <strong>
+                    <h2>
+                        Chirst the redeemer 
+                    </h2>
+                </strong>
+            </li>
+        </ul>
+        <ul>
+            <li>
+                <strong>
+                    <h2>
+                        Colosseum
+                    </h2>
+                </strong>
+            </li>
+        </ul>
+    </body>
+</html>
